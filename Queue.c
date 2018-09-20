@@ -1,5 +1,5 @@
 #include <stdio.h>
-int e,i,q[5];
+int e,i,q[5]; //Global variable
 int max = 5, count = 0;
 int a = 10, b = 20, c = 30,d = 40;
 
